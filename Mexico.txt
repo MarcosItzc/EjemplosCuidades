@@ -1,0 +1,65 @@
+<html>
+<head>
+ <meta charset="uft-8">
+ <meta name= "description" content="blog">
+ <meta name="keywords" content="Mexico">
+ <meta name="viewport" content="width=device-width, initial-scale-1.0">
+ <title>Datos Mexico</title>
+ <style>
+  div.contenedor{
+   width: 100%;
+   border: 1px solid gray;
+  }
+  header, footer{
+   padding: 1em;
+   color: white;
+   background-color: black;
+   clear: left;
+   text-align: center;
+  }
+  nav{
+   float: left;
+   max-witdh: 160px;
+   margin: 0;
+   padding: 1em;
+  }
+  nav ul{
+   list-style-type: none;
+   padding: 0;
+  }
+  nav ul a{
+   text-decoration: none;
+  }
+  article{
+   margin-left: 170px;
+   border-left: 1px solid gray;
+   padding: lem;
+   overflow: hidden;
+  }
+  img{
+   width: 200px;
+   height: 150px;
+  }
+</style>
+</head>
+<body>
+ <div class="contenedor">
+ <header>
+  <h1>Pais de M&eacute;xico</h1>
+ </header>
+ <nav>
+  <ui>
+   <img src="Mexico.jpg" alt="Imagen de Mexico">
+   <li><a href="index.html">Pagina Principal</a></li>
+  </ui>
+ </nav>
+ <section>
+  <article>
+   <h1 align="center"><span style="color:red">Blog de M&eacute;xico</span></h1>
+   <p>Pais de M&eacute;xico, un pa&iacute;s muy colorido!</p>
+   <p>M&eacute;xico es un pa&iacute;s incre&iacute;blemente diverso y lleno de vida. Desde sus impresionantes playas hasta sus antiguas ruinas, este lugar tiene algo para todos los gustos. Imagina esto: est&aacute;s caminando por las calles adoquinadas de las ciudades coloniales, rodeado de arquitectura colorida y aromas tentadores de comida callejera. Cada esquina te ofrece una nueva aventura, ya sea explorando los mercados locales, bailando al ritmo de la m&uacute;sica mariachi o maravill&aacute;ndote con las tradiciones y artesan&iacute;as de las diferentes regiones.</p>
+  </article>
+ </section>
+  <footer>Copyright &copy; itorizaba.edu.mx</footer>
+ </div>
+</body>
